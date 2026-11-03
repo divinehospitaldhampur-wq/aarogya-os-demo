@@ -1,0 +1,1 @@
+from fastapi import FastAPI, app equals FastAPI(), then @app.get(”/”) def root(): return {“message”: “Aarogya OS”}.
